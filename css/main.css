@@ -1,0 +1,10 @@
+#container{
+	padding: 5%;
+}
+#container.row{
+	padding: 2%;
+}
+.btn-group{
+	position: relative;
+	top:20%;
+}
